@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "app.initia.co",
+               "sha256_cert_fingerprints": ["53:57:56:3D:E0:94:2F:66:78:C7:64:43:66:D0:C8:6B:2A:D3:0B:64:74:39:56:57:71:EB:01:EB:A7:D0:53:C0"] }
+}]
